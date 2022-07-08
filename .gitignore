@@ -1,0 +1,7 @@
+#old bash script to do manual things, not needed anymore
+MyMicConnect.sh
+#pygame cache
+/__pycache__
+#some sounds I used to test
+/Samples/Welcome*
+/Samples/Vine-boom-sound*
